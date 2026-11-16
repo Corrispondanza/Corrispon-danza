@@ -1,0 +1,164 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>CORRISPON-DANZA, Mostra di Arte Postale</title>
+<meta name="description" content="CORRISPON-DANZA, Mostra di Arte Postale: sfoglia il fronte e il retro delle cartoline d'artista in mostra.">
+<meta property="og:type" content="website">
+<meta property="og:title" content="CORRISPON-DANZA, Mostra di Arte Postale">
+<meta property="og:description" content="Sfoglia il fronte e il retro delle cartoline d'artista in mostra.">
+<meta property="og:locale" content="it_IT">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="CORRISPON-DANZA, Mostra di Arte Postale">
+<meta name="theme-color" content="#f4ecd8">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="preload" href="font/special-elite-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="font/caveat-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="css/stile.css">
+</head>
+<body>
+<!-- Simboli SVG riutilizzati (timbro postale, busta) -->
+<svg width="0" height="0" style="position:absolute" aria-hidden="true" focusable="false">
+  <defs>
+    <path id="cerchio-testo" d="M50,50 m-35,0 a35,35 0 1,1 70,0 a35,35 0 1,1 -70,0"/>
+  </defs>
+  <symbol id="timbro" viewBox="0 0 100 100">
+    <g fill="none" stroke="currentColor">
+      <circle cx="50" cy="50" r="46" stroke-width="3"/>
+      <circle cx="50" cy="50" r="27" stroke-width="2"/>
+    </g>
+    <text font-family="'Special Elite','Courier New',monospace" font-size="11.5" fill="currentColor" letter-spacing="1.2">
+      <textPath href="#cerchio-testo" startOffset="0">CORRISPON-DANZA ✶ ARTE POSTALE ✶</textPath>
+    </text>
+    <text x="50" y="47" text-anchor="middle" font-family="'Special Elite','Courier New',monospace" font-size="10" fill="currentColor">MAIL</text>
+    <text x="50" y="60" text-anchor="middle" font-family="'Special Elite','Courier New',monospace" font-size="10" fill="currentColor">ART</text>
+  </symbol>
+  <symbol id="onde" viewBox="0 0 120 40">
+    <g fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round">
+      <path d="M2 8 q10 -7 20 0 t20 0 t20 0 t20 0 t20 0 t16 0"/>
+      <path d="M2 20 q10 -7 20 0 t20 0 t20 0 t20 0 t20 0 t16 0"/>
+      <path d="M2 32 q10 -7 20 0 t20 0 t20 0 t20 0 t20 0 t16 0"/>
+    </g>
+  </symbol>
+  <symbol id="icona-busta" viewBox="0 0 40 28">
+    <rect x="1.5" y="1.5" width="37" height="25" rx="2" fill="#fffaf0" stroke="currentColor" stroke-width="2"/>
+    <path d="M2 3 L20 16 L38 3" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/>
+    <rect x="29" y="5" width="6" height="7" fill="#c8102e"/>
+  </symbol>
+</svg>
+
+<a class="salta" href="#palco">Vai all'opera</a>
+
+<!-- FASCIA FISSA CON IL TITOLO DELLA MOSTRA -->
+<header class="fascia" id="fascia">
+  <button class="bottone-menu" id="bottone-menu" type="button" aria-expanded="false" aria-controls="rubrica" aria-label="Apri l'elenco degli artisti">
+    <svg aria-hidden="true"><use href="#icona-busta"/></svg>
+    <span class="bottone-menu-testo">Artisti</span>
+  </button>
+  <h1 class="titolo-mostra"><span class="t1">CORRISPON-DANZA,</span> <span class="t2">Mostra di Arte Postale</span></h1>
+  <svg class="timbro-titolo" aria-hidden="true"><use href="#timbro"/></svg>
+</header>
+
+<div class="impaginato">
+  <!-- RUBRICA DEGLI ARTISTI -->
+  <nav class="rubrica" id="rubrica" aria-label="Elenco degli artisti">
+    <div class="rubrica-testa">
+      <label class="cerca-etichetta" for="cerca">Cerca un artista</label>
+      <input class="cerca" id="cerca" type="search" placeholder="Cerca un nome…" autocomplete="off" spellcheck="false">
+    </div>
+    <ol class="elenco" id="elenco"></ol>
+    <p class="nessuno" id="nessuno" hidden>Nessun artista trovato.</p>
+  </nav>
+  <div class="velo" id="velo" hidden></div>
+
+  <!-- AREA CENTRALE -->
+  <main class="principale" id="principale">
+    <div class="intestazione-artista">
+      <h2 class="nome-artista" id="nome-artista" aria-live="polite">&nbsp;</h2>
+    </div>
+
+    <div class="palco" id="palco" tabindex="-1">
+      <button class="freccia freccia-sx" id="prec" type="button" aria-label="Opera precedente">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M15 4 L7 12 L15 20"/></svg>
+      </button>
+
+      <div class="cornice">
+        <div class="foglio" id="foglio">
+          <figure class="cartolina" id="cart-fronte">
+            <figcaption class="etichetta-lato">Fronte</figcaption>
+            <button class="cartolina-carta" type="button" data-lato="fronte">
+              <img id="img-fronte" alt="" decoding="async">
+            </button>
+          </figure>
+          <figure class="cartolina" id="cart-retro">
+            <figcaption class="etichetta-lato">Retro</figcaption>
+            <button class="cartolina-carta" type="button" data-lato="retro">
+              <img id="img-retro" alt="" decoding="async">
+            </button>
+          </figure>
+        </div>
+      </div>
+
+      <button class="freccia freccia-dx" id="succ" type="button" aria-label="Opera successiva">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 4 L17 12 L9 20"/></svg>
+      </button>
+    </div>
+
+    <div class="francobollo" aria-live="off">
+      <div class="francobollo-interno">
+        <span class="francobollo-cifre" id="contatore">– / –</span>
+        <span class="francobollo-valore">posta</span>
+      </div>
+    </div>
+  </main>
+</div>
+
+<!-- SCENA DELLA TRANSIZIONE "A LETTERA" (decorativa) -->
+<div class="scena" id="scena" aria-hidden="true">
+  <div class="busta" id="busta">
+    <div class="linguetta-dietro" id="linguetta-dietro"></div>
+    <div class="busta-retro"></div>
+    <div class="lettera" id="lettera">
+      <img id="lettera-fronte" alt="">
+      <img id="lettera-retro" alt="">
+    </div>
+    <div class="busta-tasca">
+      <div class="busta-tasca-carta"></div>
+      <div class="busta-francobollo"><span>✶</span></div>
+      <svg class="busta-timbro"><use href="#timbro"/></svg>
+      <svg class="busta-onde"><use href="#onde"/></svg>
+      <div class="busta-indirizzo">
+        <span class="busta-a">a:</span>
+        <span class="busta-nome" id="busta-nome"></span>
+      </div>
+      <span class="busta-par-avion">PAR AVION</span>
+    </div>
+    <div class="busta-linguetta" id="linguetta"></div>
+  </div>
+</div>
+
+<!-- VISUALIZZAZIONE A SCHERMO INTERO -->
+<div class="lightbox" id="lightbox" role="dialog" aria-modal="true" aria-labelledby="lb-titolo" hidden>
+  <div class="lb-barra">
+    <span class="lb-titolo" id="lb-titolo"></span>
+    <button class="lb-chiudi" id="lb-chiudi" type="button" aria-label="Chiudi la visualizzazione a schermo intero">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 5 L19 19 M19 5 L5 19"/></svg>
+    </button>
+  </div>
+  <div class="lb-area" id="lb-area">
+    <img class="lb-img" id="lb-img" alt="" draggable="false">
+  </div>
+  <button class="lb-freccia lb-sx" id="lb-prec" type="button" aria-label="Mostra l'altro lato">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M15 4 L7 12 L15 20"/></svg>
+  </button>
+  <button class="lb-freccia lb-dx" id="lb-succ" type="button" aria-label="Mostra l'altro lato">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 4 L17 12 L9 20"/></svg>
+  </button>
+  <p class="lb-aiuto">Doppio tocco o rotella per ingrandire · trascina per spostare</p>
+</div>
+
+<noscript><p class="noscript">Per sfogliare le opere è necessario attivare JavaScript.</p></noscript>
+<script src="js/app.js"></script>
+</body>
+</html>

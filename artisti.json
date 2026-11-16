@@ -1,0 +1,994 @@
+[
+ {
+  "id": "argiolas-andreina",
+  "cognome": "Argiolas",
+  "nome": "Andreina",
+  "icona": "img/argiolas-andreina-icona.webp",
+  "fronte": {
+   "src": "img/argiolas-andreina-fronte.webp",
+   "mini": "img/argiolas-andreina-fronte-mini.webp",
+   "w": 1196,
+   "h": 2000
+  },
+  "retro": {
+   "src": "img/argiolas-andreina-retro.webp",
+   "mini": "img/argiolas-andreina-retro-mini.webp",
+   "w": 2000,
+   "h": 1178
+  }
+ },
+ {
+  "id": "ballabeni-franco",
+  "cognome": "Ballabeni",
+  "nome": "Franco",
+  "icona": "img/ballabeni-franco-icona.webp",
+  "fronte": {
+   "src": "img/ballabeni-franco-fronte.webp",
+   "mini": "img/ballabeni-franco-fronte-mini.webp",
+   "w": 1340,
+   "h": 2000
+  },
+  "retro": {
+   "src": "img/ballabeni-franco-retro.webp",
+   "mini": "img/ballabeni-franco-retro-mini.webp",
+   "w": 2000,
+   "h": 1175
+  }
+ },
+ {
+  "id": "ballabio-marisa",
+  "cognome": "Ballabio",
+  "nome": "Marisa",
+  "icona": "img/ballabio-marisa-icona.webp",
+  "fronte": {
+   "src": "img/ballabio-marisa-fronte.webp",
+   "mini": "img/ballabio-marisa-fronte-mini.webp",
+   "w": 1203,
+   "h": 2000
+  },
+  "retro": {
+   "src": "img/ballabio-marisa-retro.webp",
+   "mini": "img/ballabio-marisa-retro-mini.webp",
+   "w": 2000,
+   "h": 1169
+  }
+ },
+ {
+  "id": "bandi-gianmario",
+  "cognome": "Bandi",
+  "nome": "Gianmario",
+  "icona": "img/bandi-gianmario-icona.webp",
+  "fronte": {
+   "src": "img/bandi-gianmario-fronte.webp",
+   "mini": "img/bandi-gianmario-fronte-mini.webp",
+   "w": 1177,
+   "h": 2000
+  },
+  "retro": {
+   "src": "img/bandi-gianmario-retro.webp",
+   "mini": "img/bandi-gianmario-retro-mini.webp",
+   "w": 2000,
+   "h": 1172
+  }
+ },
+ {
+  "id": "barducci-piero",
+  "cognome": "Barducci",
+  "nome": "Piero",
+  "icona": "img/barducci-piero-icona.webp",
+  "fronte": {
+   "src": "img/barducci-piero-fronte.webp",
+   "mini": "img/barducci-piero-fronte-mini.webp",
+   "w": 1199,
+   "h": 2000
+  },
+  "retro": {
+   "src": "img/barducci-piero-retro.webp",
+   "mini": "img/barducci-piero-retro-mini.webp",
+   "w": 2000,
+   "h": 1181
+  }
+ },
+ {
+  "id": "baroni-vittore",
+  "cognome": "Baroni",
+  "nome": "Vittore",
+  "icona": "img/baroni-vittore-icona.webp",
+  "fronte": {
+   "src": "img/baroni-vittore-fronte.webp",
+   "mini": "img/baroni-vittore-fronte-mini.webp",
+   "w": 1221,
+   "h": 2000
+  },
+  "retro": {
+   "src": "img/baroni-vittore-retro.webp",
+   "mini": "img/baroni-vittore-retro-mini.webp",
+   "w": 2000,
+   "h": 1186
+  }
+ },
+ {
+  "id": "bassi-pier-roberto",
+  "cognome": "Bassi",
+  "nome": "Pier Roberto",
+  "icona": "img/bassi-pier-roberto-icona.webp",
+  "fronte": {
+   "src": "img/bassi-pier-roberto-fronte.webp",
+   "mini": "img/bassi-pier-roberto-fronte-mini.webp",
+   "w": 1242,
+   "h": 2000
+  },
+  "retro": {
+   "src": "img/bassi-pier-roberto-retro.webp",
+   "mini": "img/bassi-pier-roberto-retro-mini.webp",
+   "w": 2000,
+   "h": 1171
+  }
+ },
+ {
+  "id": "battaglia-francesca",
+  "cognome": "Battaglia",
+  "nome": "Francesca",
+  "icona": "img/battaglia-francesca-icona.webp",
+  "fronte": {
+   "src": "img/battaglia-francesca-fronte.webp",
+   "mini": "img/battaglia-francesca-fronte-mini.webp",
+   "w": 1198,
+   "h": 2000
+  },
+  "retro": {
+   "src": "img/battaglia-francesca-retro.webp",
+   "mini": "img/battaglia-francesca-retro-mini.webp",
+   "w": 2000,
+   "h": 1174
+  }
+ },
+ {
+  "id": "biral-lucia",
+  "cognome": "Biral",
+  "nome": "Lucia",
+  "icona": "img/biral-lucia-icona.webp",
+  "fronte": {
+   "src": "img/biral-lucia-fronte.webp",
+   "mini": "img/biral-lucia-fronte-mini.webp",
+   "w": 1202,
+   "h": 2000
+  },
+  "retro": {
+   "src": "img/biral-lucia-retro.webp",
+   "mini": "img/biral-lucia-retro-mini.webp",
+   "w": 2000,
+   "h": 1175
+  }
+ },
+ {
+  "id": "braglia-marzia-maria",
+  "cognome": "Braglia",
+  "nome": "Marzia Maria",
+  "icona": "img/braglia-marzia-maria-icona.webp",
+  "fronte": {
+   "src": "img/braglia-marzia-maria-fronte.webp",
+   "mini": "img/braglia-marzia-maria-fronte-mini.webp",
+   "w": 1216,
+   "h": 2000
+  },
+  "retro": {
+   "src": "img/braglia-marzia-maria-retro.webp",
+   "mini": "img/braglia-marzia-maria-retro-mini.webp",
+   "w": 2000,
+   "h": 1177
+  }
+ },
+ {
+  "id": "brambati-gianfranco",
+  "cognome": "Brambati",
+  "nome": "Gianfranco",
+  "icona": "img/brambati-gianfranco-icona.webp",
+  "fronte": {
+   "src": "img/brambati-gianfranco-fronte.webp",
+   "mini": "img/brambati-gianfranco-fronte-mini.webp",
+   "w": 1194,
+   "h": 2000
+  },
+  "retro": {
+   "src": "img/brambati-gianfranco-retro.webp",
+   "mini": "img/brambati-gianfranco-retro-mini.webp",
+   "w": 2000,
+   "h": 1172
+  }
+ },
+ {
+  "id": "buttazzoni-cosetta",
+  "cognome": "Buttazzoni",
+  "nome": "Cosetta",
+  "icona": "img/buttazzoni-cosetta-icona.webp",
+  "fronte": {
+   "src": "img/buttazzoni-cosetta-fronte.webp",
+   "mini": "img/buttazzoni-cosetta-fronte-mini.webp",
+   "w": 1184,
+   "h": 2000
+  },
+  "retro": {
+   "src": "img/buttazzoni-cosetta-retro.webp",
+   "mini": "img/buttazzoni-cosetta-retro-mini.webp",
+   "w": 2000,
+   "h": 1191
+  }
+ },
+ {
+  "id": "buzzetti-ruggero",
+  "cognome": "Buzzetti",
+  "nome": "Ruggero",
+  "icona": "img/buzzetti-ruggero-icona.webp",
+  "fronte": {
+   "src": "img/buzzetti-ruggero-fronte.webp",
+   "mini": "img/buzzetti-ruggero-fronte-mini.webp",
+   "w": 1228,
+   "h": 2000
+  },
+  "retro": {
+   "src": "img/buzzetti-ruggero-retro.webp",
+   "mini": "img/buzzetti-ruggero-retro-mini.webp",
+   "w": 2000,
+   "h": 1199
+  }
+ },
+ {
+  "id": "caccaro-mirta",
+  "cognome": "Caccaro",
+  "nome": "Mirta",
+  "icona": "img/caccaro-mirta-icona.webp",
+  "fronte": {
+   "src": "img/caccaro-mirta-fronte.webp",
+   "mini": "img/caccaro-mirta-fronte-mini.webp",
+   "w": 1200,
+   "h": 2000
+  },
+  "retro": {
+   "src": "img/caccaro-mirta-retro.webp",
+   "mini": "img/caccaro-mirta-retro-mini.webp",
+   "w": 2000,
+   "h": 1162
+  }
+ },
+ {
+  "id": "caccavale-alfonso",
+  "cognome": "Caccavale",
+  "nome": "Alfonso",
+  "icona": "img/caccavale-alfonso-icona.webp",
+  "fronte": {
+   "src": "img/caccavale-alfonso-fronte.webp",
+   "mini": "img/caccavale-alfonso-fronte-mini.webp",
+   "w": 1198,
+   "h": 2000
+  },
+  "retro": {
+   "src": "img/caccavale-alfonso-retro.webp",
+   "mini": "img/caccavale-alfonso-retro-mini.webp",
+   "w": 2000,
+   "h": 1172
+  }
+ },
+ {
+  "id": "caporaso-angela",
+  "cognome": "Caporaso",
+  "nome": "Angela",
+  "icona": "img/caporaso-angela-icona.webp",
+  "fronte": {
+   "src": "img/caporaso-angela-fronte.webp",
+   "mini": "img/caporaso-angela-fronte-mini.webp",
+   "w": 1239,
+   "h": 2000
+  },
+  "retro": {
+   "src": "img/caporaso-angela-retro.webp",
+   "mini": "img/caporaso-angela-retro-mini.webp",
+   "w": 2000,
+   "h": 1165
+  }
+ },
+ {
+  "id": "cattaneo-miriam",
+  "cognome": "Cattaneo",
+  "nome": "Miriam",
+  "icona": "img/cattaneo-miriam-icona.webp",
+  "fronte": {
+   "src": "img/cattaneo-miriam-fronte.webp",
+   "mini": "img/cattaneo-miriam-fronte-mini.webp",
+   "w": 1188,
+   "h": 2000
+  },
+  "retro": {
+   "src": "img/cattaneo-miriam-retro.webp",
+   "mini": "img/cattaneo-miriam-retro-mini.webp",
+   "w": 2000,
+   "h": 1169
+  }
+ },
+ {
+  "id": "cazzaro-maria-teresa",
+  "cognome": "Cazzaro",
+  "nome": "Maria Teresa",
+  "icona": "img/cazzaro-maria-teresa-icona.webp",
+  "fronte": {
+   "src": "img/cazzaro-maria-teresa-fronte.webp",
+   "mini": "img/cazzaro-maria-teresa-fronte-mini.webp",
+   "w": 1207,
+   "h": 2000
+  },
+  "retro": {
+   "src": "img/cazzaro-maria-teresa-retro.webp",
+   "mini": "img/cazzaro-maria-teresa-retro-mini.webp",
+   "w": 2000,
+   "h": 1157
+  }
+ },
+ {
+  "id": "chiarlone-bruno",
+  "cognome": "Chiarlone",
+  "nome": "Bruno",
+  "icona": "img/chiarlone-bruno-icona.webp",
+  "fronte": {
+   "src": "img/chiarlone-bruno-fronte.webp",
+   "mini": "img/chiarlone-bruno-fronte-mini.webp",
+   "w": 1194,
+   "h": 2000
+  },
+  "retro": {
+   "src": "img/chiarlone-bruno-retro.webp",
+   "mini": "img/chiarlone-bruno-retro-mini.webp",
+   "w": 2000,
+   "h": 1194
+  }
+ },
+ {
+  "id": "ciappa-flavia",
+  "cognome": "Ciappa",
+  "nome": "Flavia",
+  "icona": "img/ciappa-flavia-icona.webp",
+  "fronte": {
+   "src": "img/ciappa-flavia-fronte.webp",
+   "mini": "img/ciappa-flavia-fronte-mini.webp",
+   "w": 1188,
+   "h": 2000
+  },
+  "retro": {
+   "src": "img/ciappa-flavia-retro.webp",
+   "mini": "img/ciappa-flavia-retro-mini.webp",
+   "w": 2000,
+   "h": 1167
+  }
+ },
+ {
+  "id": "col-mabi",
+  "cognome": "Col",
+  "nome": "Mabi",
+  "icona": "img/col-mabi-icona.webp",
+  "fronte": {
+   "src": "img/col-mabi-fronte.webp",
+   "mini": "img/col-mabi-fronte-mini.webp",
+   "w": 1221,
+   "h": 2000
+  },
+  "retro": {
+   "src": "img/col-mabi-retro.webp",
+   "mini": "img/col-mabi-retro-mini.webp",
+   "w": 2000,
+   "h": 1188
+  }
+ },
+ {
+  "id": "de-luca-giorgio",
+  "cognome": "De Luca",
+  "nome": "Giorgio",
+  "icona": "img/de-luca-giorgio-icona.webp",
+  "fronte": {
+   "src": "img/de-luca-giorgio-fronte.webp",
+   "mini": "img/de-luca-giorgio-fronte-mini.webp",
+   "w": 1200,
+   "h": 2000
+  },
+  "retro": {
+   "src": "img/de-luca-giorgio-retro.webp",
+   "mini": "img/de-luca-giorgio-retro-mini.webp",
+   "w": 2000,
+   "h": 1180
+  }
+ },
+ {
+  "id": "de-novellis-mariagrazia",
+  "cognome": "De Novellis",
+  "nome": "Mariagrazia",
+  "icona": "img/de-novellis-mariagrazia-icona.webp",
+  "fronte": {
+   "src": "img/de-novellis-mariagrazia-fronte.webp",
+   "mini": "img/de-novellis-mariagrazia-fronte-mini.webp",
+   "w": 1303,
+   "h": 2000
+  },
+  "retro": {
+   "src": "img/de-novellis-mariagrazia-retro.webp",
+   "mini": "img/de-novellis-mariagrazia-retro-mini.webp",
+   "w": 2000,
+   "h": 1187
+  }
+ },
+ {
+  "id": "de-paolis-nando",
+  "cognome": "De Paolis",
+  "nome": "Nando",
+  "icona": "img/de-paolis-nando-icona.webp",
+  "fronte": {
+   "src": "img/de-paolis-nando-fronte.webp",
+   "mini": "img/de-paolis-nando-fronte-mini.webp",
+   "w": 1190,
+   "h": 2000
+  },
+  "retro": {
+   "src": "img/de-paolis-nando-retro.webp",
+   "mini": "img/de-paolis-nando-retro-mini.webp",
+   "w": 2000,
+   "h": 1170
+  }
+ },
+ {
+  "id": "di-palma-renata",
+  "cognome": "Di Palma",
+  "nome": "Renata",
+  "icona": "img/di-palma-renata-icona.webp",
+  "fronte": {
+   "src": "img/di-palma-renata-fronte.webp",
+   "mini": "img/di-palma-renata-fronte-mini.webp",
+   "w": 1204,
+   "h": 2000
+  },
+  "retro": {
+   "src": "img/di-palma-renata-retro.webp",
+   "mini": "img/di-palma-renata-retro-mini.webp",
+   "w": 2000,
+   "h": 1196
+  }
+ },
+ {
+  "id": "di-valentin-lionella",
+  "cognome": "Di Valentin",
+  "nome": "Lionella",
+  "icona": "img/di-valentin-lionella-icona.webp",
+  "fronte": {
+   "src": "img/di-valentin-lionella-fronte.webp",
+   "mini": "img/di-valentin-lionella-fronte-mini.webp",
+   "w": 1198,
+   "h": 2000
+  },
+  "retro": {
+   "src": "img/di-valentin-lionella-retro.webp",
+   "mini": "img/di-valentin-lionella-retro-mini.webp",
+   "w": 2000,
+   "h": 1180
+  }
+ },
+ {
+  "id": "dosio-maria-grazia",
+  "cognome": "Dosio",
+  "nome": "Maria Grazia",
+  "icona": "img/dosio-maria-grazia-icona.webp",
+  "fronte": {
+   "src": "img/dosio-maria-grazia-fronte.webp",
+   "mini": "img/dosio-maria-grazia-fronte-mini.webp",
+   "w": 1208,
+   "h": 2000
+  },
+  "retro": {
+   "src": "img/dosio-maria-grazia-retro.webp",
+   "mini": "img/dosio-maria-grazia-retro-mini.webp",
+   "w": 2000,
+   "h": 1164
+  }
+ },
+ {
+  "id": "favaro-lara",
+  "cognome": "Favaro",
+  "nome": "Lara",
+  "icona": "img/favaro-lara-icona.webp",
+  "fronte": {
+   "src": "img/favaro-lara-fronte.webp",
+   "mini": "img/favaro-lara-fronte-mini.webp",
+   "w": 1330,
+   "h": 2000
+  },
+  "retro": {
+   "src": "img/favaro-lara-retro.webp",
+   "mini": "img/favaro-lara-retro-mini.webp",
+   "w": 2000,
+   "h": 1189
+  }
+ },
+ {
+  "id": "fergnachino-margherita",
+  "cognome": "Fergnachino",
+  "nome": "Margherita",
+  "icona": "img/fergnachino-margherita-icona.webp",
+  "fronte": {
+   "src": "img/fergnachino-margherita-fronte.webp",
+   "mini": "img/fergnachino-margherita-fronte-mini.webp",
+   "w": 1254,
+   "h": 2000
+  },
+  "retro": {
+   "src": "img/fergnachino-margherita-retro.webp",
+   "mini": "img/fergnachino-margherita-retro-mini.webp",
+   "w": 2000,
+   "h": 1183
+  }
+ },
+ {
+  "id": "furini-anna",
+  "cognome": "Furini",
+  "nome": "Anna",
+  "icona": "img/furini-anna-icona.webp",
+  "fronte": {
+   "src": "img/furini-anna-fronte.webp",
+   "mini": "img/furini-anna-fronte-mini.webp",
+   "w": 1241,
+   "h": 2000
+  },
+  "retro": {
+   "src": "img/furini-anna-retro.webp",
+   "mini": "img/furini-anna-retro-mini.webp",
+   "w": 2000,
+   "h": 1210
+  }
+ },
+ {
+  "id": "galli-maurizio",
+  "cognome": "Galli",
+  "nome": "Maurizio",
+  "icona": "img/galli-maurizio-icona.webp",
+  "fronte": {
+   "src": "img/galli-maurizio-fronte.webp",
+   "mini": "img/galli-maurizio-fronte-mini.webp",
+   "w": 1184,
+   "h": 2000
+  },
+  "retro": {
+   "src": "img/galli-maurizio-retro.webp",
+   "mini": "img/galli-maurizio-retro-mini.webp",
+   "w": 2000,
+   "h": 1162
+  }
+ },
+ {
+  "id": "gentili-dania",
+  "cognome": "Gentili",
+  "nome": "Dania",
+  "icona": "img/gentili-dania-icona.webp",
+  "fronte": {
+   "src": "img/gentili-dania-fronte.webp",
+   "mini": "img/gentili-dania-fronte-mini.webp",
+   "w": 1205,
+   "h": 2000
+  },
+  "retro": {
+   "src": "img/gentili-dania-retro.webp",
+   "mini": "img/gentili-dania-retro-mini.webp",
+   "w": 2000,
+   "h": 1185
+  }
+ },
+ {
+  "id": "ghidini-massimiliano",
+  "cognome": "Ghidini",
+  "nome": "Massimiliano",
+  "alias": "Max Ghj",
+  "icona": "img/ghidini-massimiliano-icona.webp",
+  "fronte": {
+   "src": "img/ghidini-massimiliano-fronte.webp",
+   "mini": "img/ghidini-massimiliano-fronte-mini.webp",
+   "w": 1198,
+   "h": 2000
+  },
+  "retro": {
+   "src": "img/ghidini-massimiliano-retro.webp",
+   "mini": "img/ghidini-massimiliano-retro-mini.webp",
+   "w": 2000,
+   "h": 1187
+  }
+ },
+ {
+  "id": "giampieri-antonio",
+  "cognome": "Giampieri",
+  "nome": "Antonio",
+  "icona": "img/giampieri-antonio-icona.webp",
+  "fronte": {
+   "src": "img/giampieri-antonio-fronte.webp",
+   "mini": "img/giampieri-antonio-fronte-mini.webp",
+   "w": 1221,
+   "h": 2000
+  },
+  "retro": {
+   "src": "img/giampieri-antonio-retro.webp",
+   "mini": "img/giampieri-antonio-retro-mini.webp",
+   "w": 2000,
+   "h": 1173
+  }
+ },
+ {
+  "id": "giunta-graziana",
+  "cognome": "Giunta",
+  "nome": "Graziana",
+  "icona": "img/giunta-graziana-icona.webp",
+  "fronte": {
+   "src": "img/giunta-graziana-fronte.webp",
+   "mini": "img/giunta-graziana-fronte-mini.webp",
+   "w": 1218,
+   "h": 2000
+  },
+  "retro": {
+   "src": "img/giunta-graziana-retro.webp",
+   "mini": "img/giunta-graziana-retro-mini.webp",
+   "w": 2000,
+   "h": 1159
+  }
+ },
+ {
+  "id": "lopez-muro-maya",
+  "cognome": "Lopez Muro",
+  "nome": "Maya",
+  "icona": "img/lopez-muro-maya-icona.webp",
+  "fronte": {
+   "src": "img/lopez-muro-maya-fronte.webp",
+   "mini": "img/lopez-muro-maya-fronte-mini.webp",
+   "w": 1177,
+   "h": 2000
+  },
+  "retro": {
+   "src": "img/lopez-muro-maya-retro.webp",
+   "mini": "img/lopez-muro-maya-retro-mini.webp",
+   "w": 2000,
+   "h": 1162
+  }
+ },
+ {
+  "id": "luigetti-serse",
+  "cognome": "Luigetti",
+  "nome": "Serse",
+  "icona": "img/luigetti-serse-icona.webp",
+  "fronte": {
+   "src": "img/luigetti-serse-fronte.webp",
+   "mini": "img/luigetti-serse-fronte-mini.webp",
+   "w": 1203,
+   "h": 2000
+  },
+  "retro": {
+   "src": "img/luigetti-serse-retro.webp",
+   "mini": "img/luigetti-serse-retro-mini.webp",
+   "w": 2000,
+   "h": 1221
+  }
+ },
+ {
+  "id": "maggi-daniela",
+  "cognome": "Maggi",
+  "nome": "Daniela",
+  "alias": "Dany Sis Reggae",
+  "icona": "img/maggi-daniela-icona.webp",
+  "fronte": {
+   "src": "img/maggi-daniela-fronte.webp",
+   "mini": "img/maggi-daniela-fronte-mini.webp",
+   "w": 1215,
+   "h": 2000
+  },
+  "retro": {
+   "src": "img/maggi-daniela-retro.webp",
+   "mini": "img/maggi-daniela-retro-mini.webp",
+   "w": 2000,
+   "h": 1164
+  }
+ },
+ {
+  "id": "manara-paola",
+  "cognome": "Manara",
+  "nome": "Paola",
+  "icona": "img/manara-paola-icona.webp",
+  "fronte": {
+   "src": "img/manara-paola-fronte.webp",
+   "mini": "img/manara-paola-fronte-mini.webp",
+   "w": 1229,
+   "h": 2000
+  },
+  "retro": {
+   "src": "img/manara-paola-retro.webp",
+   "mini": "img/manara-paola-retro-mini.webp",
+   "w": 2000,
+   "h": 1180
+  }
+ },
+ {
+  "id": "manzoni-sala-mario",
+  "cognome": "Manzoni Sala",
+  "nome": "Mario",
+  "icona": "img/manzoni-sala-mario-icona.webp",
+  "fronte": {
+   "src": "img/manzoni-sala-mario-fronte.webp",
+   "mini": "img/manzoni-sala-mario-fronte-mini.webp",
+   "w": 1083,
+   "h": 2000
+  },
+  "retro": {
+   "src": "img/manzoni-sala-mario-retro.webp",
+   "mini": "img/manzoni-sala-mario-retro-mini.webp",
+   "w": 2000,
+   "h": 1046
+  }
+ },
+ {
+  "id": "martina-mgm-maria-grazia",
+  "cognome": "Martina",
+  "nome": "Mgm Maria Grazia",
+  "icona": "img/martina-mgm-maria-grazia-icona.webp",
+  "fronte": {
+   "src": "img/martina-mgm-maria-grazia-fronte.webp",
+   "mini": "img/martina-mgm-maria-grazia-fronte-mini.webp",
+   "w": 1196,
+   "h": 2000
+  },
+  "retro": {
+   "src": "img/martina-mgm-maria-grazia-retro.webp",
+   "mini": "img/martina-mgm-maria-grazia-retro-mini.webp",
+   "w": 2000,
+   "h": 1176
+  }
+ },
+ {
+  "id": "martini-angela",
+  "cognome": "Martini",
+  "nome": "Angela",
+  "icona": "img/martini-angela-icona.webp",
+  "fronte": {
+   "src": "img/martini-angela-fronte.webp",
+   "mini": "img/martini-angela-fronte-mini.webp",
+   "w": 1385,
+   "h": 2000
+  },
+  "retro": {
+   "src": "img/martini-angela-retro.webp",
+   "mini": "img/martini-angela-retro-mini.webp",
+   "w": 2000,
+   "h": 1167
+  }
+ },
+ {
+  "id": "milici-virginia",
+  "cognome": "Milici",
+  "nome": "Virginia",
+  "icona": "img/milici-virginia-icona.webp",
+  "fronte": {
+   "src": "img/milici-virginia-fronte.webp",
+   "mini": "img/milici-virginia-fronte-mini.webp",
+   "w": 1212,
+   "h": 2000
+  },
+  "retro": {
+   "src": "img/milici-virginia-retro.webp",
+   "mini": "img/milici-virginia-retro-mini.webp",
+   "w": 2000,
+   "h": 1176
+  }
+ },
+ {
+  "id": "pennacchi-walter",
+  "cognome": "Pennacchi",
+  "nome": "Walter",
+  "icona": "img/pennacchi-walter-icona.webp",
+  "fronte": {
+   "src": "img/pennacchi-walter-fronte.webp",
+   "mini": "img/pennacchi-walter-fronte-mini.webp",
+   "w": 1242,
+   "h": 2000
+  },
+  "retro": {
+   "src": "img/pennacchi-walter-retro.webp",
+   "mini": "img/pennacchi-walter-retro-mini.webp",
+   "w": 2000,
+   "h": 1167
+  }
+ },
+ {
+  "id": "piazza-maria-grazia",
+  "cognome": "Piazza",
+  "nome": "Maria Grazia",
+  "icona": "img/piazza-maria-grazia-icona.webp",
+  "fronte": {
+   "src": "img/piazza-maria-grazia-fronte.webp",
+   "mini": "img/piazza-maria-grazia-fronte-mini.webp",
+   "w": 1201,
+   "h": 2000
+  },
+  "retro": {
+   "src": "img/piazza-maria-grazia-retro.webp",
+   "mini": "img/piazza-maria-grazia-retro-mini.webp",
+   "w": 2000,
+   "h": 1181
+  }
+ },
+ {
+  "id": "pozzi-paine-veronique",
+  "cognome": "Pozzi Painè",
+  "nome": "Veronique",
+  "icona": "img/pozzi-paine-veronique-icona.webp",
+  "fronte": {
+   "src": "img/pozzi-paine-veronique-fronte.webp",
+   "mini": "img/pozzi-paine-veronique-fronte-mini.webp",
+   "w": 1219,
+   "h": 2000
+  },
+  "retro": {
+   "src": "img/pozzi-paine-veronique-retro.webp",
+   "mini": "img/pozzi-paine-veronique-retro-mini.webp",
+   "w": 2000,
+   "h": 1177
+  }
+ },
+ {
+  "id": "rioda-elisa",
+  "cognome": "Rioda",
+  "nome": "Elisa",
+  "icona": "img/rioda-elisa-icona.webp",
+  "fronte": {
+   "src": "img/rioda-elisa-fronte.webp",
+   "mini": "img/rioda-elisa-fronte-mini.webp",
+   "w": 1231,
+   "h": 2000
+  },
+  "retro": {
+   "src": "img/rioda-elisa-retro.webp",
+   "mini": "img/rioda-elisa-retro-mini.webp",
+   "w": 2000,
+   "h": 1171
+  }
+ },
+ {
+  "id": "romanin-sabina",
+  "cognome": "Romanin",
+  "nome": "Sabina",
+  "icona": "img/romanin-sabina-icona.webp",
+  "fronte": {
+   "src": "img/romanin-sabina-fronte.webp",
+   "mini": "img/romanin-sabina-fronte-mini.webp",
+   "w": 1227,
+   "h": 2000
+  },
+  "retro": {
+   "src": "img/romanin-sabina-retro.webp",
+   "mini": "img/romanin-sabina-retro-mini.webp",
+   "w": 2000,
+   "h": 1182
+  }
+ },
+ {
+  "id": "rossi-enrica",
+  "cognome": "Rossi",
+  "nome": "Enrica",
+  "icona": "img/rossi-enrica-icona.webp",
+  "fronte": {
+   "src": "img/rossi-enrica-fronte.webp",
+   "mini": "img/rossi-enrica-fronte-mini.webp",
+   "w": 1202,
+   "h": 2000
+  },
+  "retro": {
+   "src": "img/rossi-enrica-retro.webp",
+   "mini": "img/rossi-enrica-retro-mini.webp",
+   "w": 2000,
+   "h": 1164
+  }
+ },
+ {
+  "id": "scala-roberto",
+  "cognome": "Scala",
+  "nome": "Roberto",
+  "icona": "img/scala-roberto-icona.webp",
+  "fronte": {
+   "src": "img/scala-roberto-fronte.webp",
+   "mini": "img/scala-roberto-fronte-mini.webp",
+   "w": 1273,
+   "h": 2000
+  },
+  "retro": {
+   "src": "img/scala-roberto-retro.webp",
+   "mini": "img/scala-roberto-retro-mini.webp",
+   "w": 2000,
+   "h": 1176
+  }
+ },
+ {
+  "id": "spagnuolo-lucia",
+  "cognome": "Spagnuolo",
+  "nome": "Lucia",
+  "icona": "img/spagnuolo-lucia-icona.webp",
+  "fronte": {
+   "src": "img/spagnuolo-lucia-fronte.webp",
+   "mini": "img/spagnuolo-lucia-fronte-mini.webp",
+   "w": 1201,
+   "h": 2000
+  },
+  "retro": {
+   "src": "img/spagnuolo-lucia-retro.webp",
+   "mini": "img/spagnuolo-lucia-retro-mini.webp",
+   "w": 2000,
+   "h": 1176
+  }
+ },
+ {
+  "id": "stradada-renata-giovanni",
+  "cognome": "Stradada",
+  "nome": "Renata & Giovanni",
+  "icona": "img/stradada-renata-giovanni-icona.webp",
+  "fronte": {
+   "src": "img/stradada-renata-giovanni-fronte.webp",
+   "mini": "img/stradada-renata-giovanni-fronte-mini.webp",
+   "w": 1280,
+   "h": 2000
+  },
+  "retro": {
+   "src": "img/stradada-renata-giovanni-retro.webp",
+   "mini": "img/stradada-renata-giovanni-retro-mini.webp",
+   "w": 2000,
+   "h": 1176
+  }
+ },
+ {
+  "id": "telazzi-cristina",
+  "cognome": "Telazzi",
+  "nome": "Cristina",
+  "icona": "img/telazzi-cristina-icona.webp",
+  "fronte": {
+   "src": "img/telazzi-cristina-fronte.webp",
+   "mini": "img/telazzi-cristina-fronte-mini.webp",
+   "w": 1216,
+   "h": 2000
+  },
+  "retro": {
+   "src": "img/telazzi-cristina-retro.webp",
+   "mini": "img/telazzi-cristina-retro-mini.webp",
+   "w": 2000,
+   "h": 1166
+  }
+ },
+ {
+  "id": "terrone-gian-paolo",
+  "cognome": "Terrone",
+  "nome": "Gian Paolo",
+  "icona": "img/terrone-gian-paolo-icona.webp",
+  "fronte": {
+   "src": "img/terrone-gian-paolo-fronte.webp",
+   "mini": "img/terrone-gian-paolo-fronte-mini.webp",
+   "w": 1195,
+   "h": 2000
+  },
+  "retro": {
+   "src": "img/terrone-gian-paolo-retro.webp",
+   "mini": "img/terrone-gian-paolo-retro-mini.webp",
+   "w": 2000,
+   "h": 1184
+  }
+ },
+ {
+  "id": "tramballi-leila",
+  "cognome": "Tramballi",
+  "nome": "Leila",
+  "icona": "img/tramballi-leila-icona.webp",
+  "fronte": {
+   "src": "img/tramballi-leila-fronte.webp",
+   "mini": "img/tramballi-leila-fronte-mini.webp",
+   "w": 1182,
+   "h": 2000
+  },
+  "retro": {
+   "src": "img/tramballi-leila-retro.webp",
+   "mini": "img/tramballi-leila-retro-mini.webp",
+   "w": 2000,
+   "h": 1175
+  }
+ }
+]
